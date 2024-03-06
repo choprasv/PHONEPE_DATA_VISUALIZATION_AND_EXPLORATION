@@ -1,4 +1,5 @@
 # PHONEPE_DATA_VISUALIZATION_AND_EXPLORATION
+![image](https://github.com/choprasv/PHONEPE_DATA_VISUALIZATION_AND_EXPLORATION/blob/main/phonepe.png)
 The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. The process involves:
 
 *Developed a user-friendly tool for visualizing and exploring PhonePe Pulse data using Streamlit and Plotly.*
