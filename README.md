@@ -40,4 +40,8 @@ The aim of this project is to develop a solution that extracts, transforms, and 
    - Presented visual insights in real-time within the Streamlit interface.
    - Utilized Choropleth maps and other Plotly visualizations for effective data representation.
 
-*This project seamlessly integrates data retrieval, transformation, storage in SQL, and dynamic visualization in Streamlit to offer a comprehensive tool for exploring PhonePe Pulse data.*
+**Results**
+   - The result of this project will be a comprehensive and user-friendly solution
+for extracting, transforming, and visualizing data from the Phonepe pulse Github
+repository.
+   - This project seamlessly integrates data retrieval, transformation, storage in SQL, and dynamic visualization in Streamlit to offer a comprehensive tool for exploring PhonePe Pulse data.
